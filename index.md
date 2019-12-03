@@ -12,10 +12,11 @@ My goal is to help at least one person learn how to code.
 Here how I intend on you to use this information:
 
 Sections: 
-    Getting started
-    Core Concepts
-    Finding your voice
-    Languages specific knowledge
+
+- Getting started
+- Core Concepts
+- Finding your voice
+- Languages specific knowledge
 
 # Getting started
 
