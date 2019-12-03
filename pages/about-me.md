@@ -9,6 +9,8 @@ After a couple of years I eventually started specialising in computing, going to
 
 I say this knowing I will have to discuss many of the practices and principles of working on a longer term project nad within a team and something people can't forget, when we write software to last we need to make it so that not only we can understand it, we have to use techniques and language that is accessible.
 
+I graduated university with a 2:1 in computer science and got my first professional software development job a couple weeks later, I love it - it's not only a career choice but a lifstyle for me, you dear reader don't need to take it as seriously as me, if you just need to automate a few repetitive tasks with some scipting language that I've never heard about - go right ahead. I think the great thing about programming is that it isthere to solve *real* problems, personal, small, medium and large problems, from the task that can be done in five minutes by a script rather than an hour for a human to building games to building facebook or twitter, code powers it all - just don't go and automate yourself out of a job now ;).
+
 I have been a professional developer for 7 years now and a hobbyist for much longer, I'm hoping this little website might become a resource for people who want to learn not "how to code" but more how to solve problems through code. I do not prfess that I have all the answers I don't, but I hope I can at least give you some core concepts to help you get started in this wonderful world.
 
 I believe anyone can do anything they set their mind to! If this website helps at least one person on their journey to building professional enterprise sofwtare or helps one person automate a task from one hour to 5 minutes I will be happy.
