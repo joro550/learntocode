@@ -3,9 +3,9 @@ layout: page
 title: Index
 ---
 
-Hello and welcome - this is a little project of mine, I am always looking for ways to introduce new people into the wonderful world of software development. There is a lot of information out there about this subjest and I am just a drop in the ocean of information, but I'm hoping that if someone is struggling with a topic or with something in particular this can be a resource for that one person out there that just needs an extra piece of help.
+Hello and welcome - this is a little project of mine, I am always looking for ways to introduce new people into the wonderful world of software development. There is a lot of information out there about this subject and I am just a drop in the ocean of information, but I'm hoping that if someone is struggling with a topic or with something in particular this can be a resource for that one person out there that just needs an extra piece of help.
 
-This website is not intended to be a one stop shop for everything programming, and it will not teach you everything you need to know about the art, the intention here is toquip you with a set of tools that you can wield. The main intention is not to teach you how to code, it's to solve problems through code.
+This website is not intended to be a one stop shop for everything programming, and it will not teach you everything you need to know about the art, the intention here is to equip you with a set of tools that you can wield. The main intention is not to teach you how to code, it's to solve problems through code.
 
 My goal is to help at least one person learn how to code.
 
