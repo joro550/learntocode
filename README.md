@@ -1,0 +1,1 @@
+This is a repository that will follow my youtube series that will hopefully teach people how to code in c# dotnet 5
